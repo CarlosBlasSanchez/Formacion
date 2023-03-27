@@ -3,13 +3,13 @@ package com.ejercicios;
 public class Datos {
 	
 
-		private int dia = 10;
-		private String nDni = "57.433.222";
+		private int dia;
+		private String nDni;
 		private double precio;
 		private boolean ACTIVO=true;
 		public Datos(int dia, String nDni, double precio, boolean ACTIVO) {
-			this.dia = dia;
-			this.nDni = nDni;
+			this.dia = 10;
+			this.nDni = "57.433.222";
 			this.precio = 20.50;
 			ACTIVO = ACTIVO;
 		}
