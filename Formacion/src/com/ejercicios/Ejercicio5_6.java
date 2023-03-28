@@ -1,3 +1,4 @@
+package com.ejercicios;
 
 public class Ejercicio5_6 {
 
